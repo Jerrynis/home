@@ -11,7 +11,7 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
+    "name": "本页音乐",
     "link": "https://music.jerrycloud.xyz/"
   },
   {
@@ -23,5 +23,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.jerrycloud.xyz/"
-  }
+  },
+    {
+    "icon": "CompactDisc",
+    "name": "音乐站",
+    "link": "https://music.jerrycloud.xyz/"
+  },
 ]
